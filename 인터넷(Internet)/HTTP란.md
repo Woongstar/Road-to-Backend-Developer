@@ -8,7 +8,7 @@
 - [SeoYng님블로그](https://velog.io/@tjdud0123/HTTP-%EC%A0%95%EB%A6%AC)
 - [MDNHTTP](https://developer.mozilla.org/ko/docs/Web/HTTP/Messages)
 
-
+- [코드없는 프로그래밍 유튜브 HTTPS](https://youtu.be/kBlQiwXSx8A)
 
 ## HTTP
 
