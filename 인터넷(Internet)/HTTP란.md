@@ -23,23 +23,21 @@
 - HTTP는 연결 상태를 유지하지 않는 비연결성 프로토콜입니다. -> Cookie 와 Session 
 - 요청/응답(request/response) 방식으로 동작
 
-<img src="./img/httpre.png">
-
-<img src="./img/Untitled 12.png">	
+<img src="./img/httpre.PNG">	
 
 클라이언트(client) 즉, 사용자가 브라우저를 통해서 어떠한 서비스를 url을 통하거나 다른 것을 통해서 요청(request)을 하면 서버에서는 해당 요청사항에 맞는 결과를 찾아서 사용자에게 응답(response)하는 형태로 동작합니다.
 
 - 요청 : client -> server
 - 응답 : server -> client
 
-<img src="./img/http네트워크.png">
+<img src="./img/http네트워크.PNG">
 
 ```http
 :authority: ko.wikipedia.org
 :method: GET
 :path: /wiki/HTTP
 :scheme: https
-accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/aPNG,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
 accept-encoding: gzip, deflate, br
 accept-language: ko-KR,ko;q=0.9,en;q=0.8
 cache-control: max-age=0
@@ -63,7 +61,7 @@ upgrade-insecure-requests: 1
 
 ### HTTP 통신과정
 
-<img src="./img/http10.png">
+<img src="./img/http10.PNG">
 
 - HTTP/1.0 은 클라이언트가 웹 서버에서 파일을 하나 받아올 때마다 3Way Handshake를 진행해야 한다.
 
@@ -79,7 +77,7 @@ upgrade-insecure-requests: 1
 
 위의 문제를 해결하기 위해 한번의 3WayHandshake를 통해 여러번의 HTTP통신을 가능하게 한 보완 방법이 HTTP/1.1입니다.
 
-<img src="./img/http11.png">
+<img src="./img/http11.PNG">
 
 HTTP 메시지는 서버와 클라이언트 간에 데이터가 교환되는 방식입니다. 메시지 타입은 두 가지가 있습니다. 요청(*request)은* 클라이언트가 서버로 전달해서 서버의 액션이 일어나게끔 하는 메시지고, 응답(*response)은 요청*에 대한 서버의 답변입니다.
 
@@ -87,7 +85,7 @@ HTTP 메시지는 ASCII로 인코딩된 텍스트 정보이며 여러 줄로 되
 
 웹 개발자가 손수 HTTP 메시지를 텍스트로 작성하지는 않고,  소프트웨어, 브라우저, 프록시, 또는 웹 서버를 통해 HTTP Request와 Response를 진행합니다.
 
-<img src="./img/httprequest.png">
+<img src="./img/httprequest.PNG">
 
 
 
@@ -102,9 +100,9 @@ HTTP 메시지는 ASCII로 인코딩된 텍스트 정보이며 여러 줄로 되
 
 ### HTTP Request
 
-<img src="./img/reqres.png">
+<img src="./img/reqres.PNG">
 
-<img src="./img/httprequest1.png">
+<img src="./img/httprequest1.PNG">
 
 
 
@@ -114,9 +112,9 @@ HTTP 메시지는 ASCII로 인코딩된 텍스트 정보이며 여러 줄로 되
 
 맨 첫줄의 Request line(Start line)은 다음과 같은 형식을 취합니다.
 
-<img src="./img/requestline.png">
+<img src="./img/requestline.PNG">
 
 요청 타입에는 여러가지 종류가 있습니다.
 
-<img src="./img/requestmethod.png">
+<img src="./img/requestmethod.PNG">
 
