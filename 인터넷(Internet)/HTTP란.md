@@ -23,9 +23,9 @@
 - HTTP는 연결 상태를 유지하지 않는 비연결성 프로토콜입니다. -> Cookie 와 Session 
 - 요청/응답(request/response) 방식으로 동작
 
-<img src="https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/%EC%9D%B8%ED%84%B0%EB%84%B7(Internet)/img/http요청.png">
+<img src="./img/httpre.png">
 
-<img src="./img/Untitled 12.png">
+<img src="./img/Untitled 12.png">	
 
 클라이언트(client) 즉, 사용자가 브라우저를 통해서 어떠한 서비스를 url을 통하거나 다른 것을 통해서 요청(request)을 하면 서버에서는 해당 요청사항에 맞는 결과를 찾아서 사용자에게 응답(response)하는 형태로 동작합니다.
 
