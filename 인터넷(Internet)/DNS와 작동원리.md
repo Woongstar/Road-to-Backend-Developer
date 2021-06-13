@@ -7,7 +7,7 @@
 
 ### DNS란
 
-DNS(Domain Name System)는 인터넷 전화번호부입니다. 
+DNS(Domain Name System)는 인터넷 전화번호부입니다.  숫자로 된 IP주소를 사람이 읽기 쉬운 문자로 바꾸어 연결 시켜주는 서비스 입니다.
 
 
 
