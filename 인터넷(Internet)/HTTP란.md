@@ -9,6 +9,8 @@
 - [코드없는 프로그래밍 유튜브 HTTPS](https://youtu.be/kBlQiwXSx8A)
 - [따라하면서 배우는 IT, HTTP 프로토콜이란?](https://www.youtube.com/watch?v=TwsQX1AnWJU)
 
+
+
 ## HTTP
 
 - Hyper Text Transfer  Protocol의 약자
@@ -77,6 +79,8 @@ upgrade-insecure-requests: 1
 
 위의 문제를 해결하기 위해 한번의 3WayHandshake를 통해 여러번의 HTTP통신을 가능하게 한 보완 방법이 HTTP/1.1입니다.
 
+
+
 <img src="./img/http11.PNG">
 
 HTTP 메시지는 서버와 클라이언트 간에 데이터가 교환되는 방식입니다. 메시지 타입은 두 가지가 있습니다. 요청(*request)은* 클라이언트가 서버로 전달해서 서버의 액션이 일어나게끔 하는 메시지고, 응답(*response)은 요청*에 대한 서버의 답변입니다.
@@ -108,7 +112,11 @@ HTTP 메시지는 ASCII로 인코딩된 텍스트 정보이며 여러 줄로 되
 
 요청 프로토콜에서는 Request line과 Headers, 공백, Body를 가지고 있습니다. (Body는 주고받는 파일이 없을경우 없을 수 있음)
 
+
+
 ### Request Line
+
+
 
 맨 첫줄의 Request line(Start line)은 다음과 같은 형식을 취합니다.
 
