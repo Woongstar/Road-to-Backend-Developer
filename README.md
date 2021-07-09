@@ -16,7 +16,7 @@
 * [브라우저와 그 작동 원리](https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/%EC%9D%B8%ED%84%B0%EB%84%B7(Internet)/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%99%80%20%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
 * [DNS와 그 작동 원리](https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/%EC%9D%B8%ED%84%B0%EB%84%B7(Internet)/DNS%EC%99%80%20%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
 * [도메인 이름이란?](https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/%EC%9D%B8%ED%84%B0%EB%84%B7(Internet)/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4%EB%A6%84%EC%9D%B4%EB%9E%80.md)
-* 호스팅이란?
+* [호스팅이란?](https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/%EC%9D%B8%ED%84%B0%EB%84%B7(Internet)/%ED%98%B8%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80.md)
 
 
 
