@@ -30,7 +30,7 @@
 
 ## :question: OS에 대한 전반적인 지식
 
-- OS의 일반적인 작동 원리
+- [OS의 일반적인 작동 원리](https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/OS%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%A7%80%EC%8B%9D/OS%EC%9D%98%20%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
 - 메모리 관리
 - 프로세스 간 통신
 - 입출력(I/O) 관리
