@@ -34,7 +34,7 @@
 - [메모리 관리](https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/OS%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%A7%80%EC%8B%9D/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC.md)
 - [프로세스 간 통신]()
 - [입출력(I/O) 관리]()
-- 터미널 사용법
+- [터미널 사용법](https://github.com/Woongstar/Road-to-Backend-Developer/blob/main/OS%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%A7%80%EC%8B%9D/%ED%84%B0%EB%AF%B8%EB%84%90%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 - 스레드와 동시성
 - 프로세스 관리
 - 터미널 기본 명령
